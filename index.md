@@ -29,9 +29,9 @@ Independent Scholar
 
 ## Experience (selected)
 `2026-Present`
-**Consultant**, *Department of Environmental Sciences & Engineering, University of North Carolina*, NC, USA.
+**Senior Research Technician**, *Department of Environmental Sciences & Engineering, University of North Carolina*, NC, USA.
 
-`2024-2026`
+`2025-2026`
 **Consultant**, *Lawn Chair Consulting, LLC.*, MT, USA.
 
 `2023-2024`
