@@ -28,6 +28,12 @@ Independent Scholar
 **B.A., Environmental Studies (Biology minor)**, *Austin College*, Sherman, TX, USA.
 
 ## Experience (selected)
+`2026-Present`
+**Consultant**, *Department of Environmental Sciences & Engineering, University of North Carolina*, NC, USA.
+
+`2024-2026`
+**Consultant**, *Lawn Chair Consulting, LLC.*, MT, USA.
+
 `2023-2024`
 **Research Manager**, *Vice President for Research, Texas A&M University*, Institute for a Disaster Resilient Texas, TX, USA.
 
