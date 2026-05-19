@@ -132,12 +132,13 @@ Brody, S. D., **Blessing, R. B.**, Sebastian, A., & Bedient, P. B. (2012). Delin
 
 
 ### Books & Book Chapters
+**Blessing, R. B.**, Esparza, M., Mostafavidarani, A. and Brody, S.D. (2026). Advancing Flood Resilience Through AI-Enhanced Mapping Strategies. In *The Handbook of Infrastructure Communication* (eds K.K. Stephens and K.M. Faust). https://doi.org/10.1002/9781394236855.ch30
 
-Brody, S., Highfield, W. E., & Blessing, R. B. (2022). Understanding the impacts of the built environment on flood loss. In *Coastal Flood Risk Reduction* (pp. 167-176). Elsevier.
+Brody, S., Highfield, W. E., & **Blessing, R. B.** (2022). Understanding the impacts of the built environment on flood loss. In *Coastal Flood Risk Reduction* (pp. 167-176). Elsevier.
 
-Brody, S., Highfield, W. E., & Blessing, R. B. (2022). The role of insurance in facilitating economic recovery from floods. In *Coastal Flood Risk Reduction* (pp. 109-118). Elsevier.
+Brody, S., Highfield, W. E., & **Blessing, R. B.** (2022). The role of insurance in facilitating economic recovery from floods. In *Coastal Flood Risk Reduction* (pp. 109-118). Elsevier.
 
-Mobley, W., & Blessing, R. B. (2022). Using machine learning to predict flood hazards based on historic damage. In *Coastal Flood Risk Reduction* (pp. 61-75). Elsevier.
+Mobley, W., & **Blessing, R. B.** (2022). Using machine learning to predict flood hazards based on historic damage. In *Coastal Flood Risk Reduction* (pp. 61-75). Elsevier.
 
 ### Short Communications
 
